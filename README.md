@@ -1,1 +1,1 @@
-Todo app
+Todo application with react native without expo.
