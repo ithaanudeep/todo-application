@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92230996433",
+    "project_id": "to-do-maker-app",
+    "storage_bucket": "to-do-maker-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92230996433:android:4bd5d80e5ef677fdce50f0",
+        "android_client_info": {
+          "package_name": "com.todomaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92230996433-n93u8v2i9ljvfgdjgfldijk0no1d0va3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdswoMo2vLOM_yRKPNMEl9EDS-3ZDI0QM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92230996433-n93u8v2i9ljvfgdjgfldijk0no1d0va3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
